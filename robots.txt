@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wapigeqijeko.netlify.app/sitemap.xml
